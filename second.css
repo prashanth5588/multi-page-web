@@ -1,0 +1,27 @@
+.button1 {
+    margin: 20px;
+}
+
+.hea3 {
+    color: blue;
+}
+
+
+.bg-container {
+    height: 100vw;
+    background-color: rgb(65, 194, 123);
+}
+
+label {
+    color: brown;
+    font-size: 25px;
+}
+
+#output{
+    width: 50vw;
+    height: 20vw;
+    background-color: bisque;
+    border-radius: 30px;
+
+}
+
